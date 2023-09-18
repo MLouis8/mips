@@ -1,2 +1,2 @@
 # mips
-few program written in mips
+few programs written in mips
